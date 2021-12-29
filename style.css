@@ -1,0 +1,28 @@
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10 px;
+    right: 60 px;
+    cursor: pointer;
+    color: black;
+
+    border-bottom-style:ridge;
+}
+
+#aArea {
+     background: linear-gradient(#1ad8db 0%, #19e33b 100%);
+   border-top: 30px;
+}
+.link:hover{
+    right: 20px;
+    background-color: aqua;
+}
+
+p{
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+#sec{
+     background: linear-gradient(#03fcf8 0%, #03fcf8 100%);
+}
